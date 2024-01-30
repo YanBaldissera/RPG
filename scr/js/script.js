@@ -18,10 +18,12 @@ function updatePersonagens(profilePersonagens){
     personagem.innerHTML = profilePersonagens.personagens.map(
         person => {
             return `
-            <div class="container" id="personagem">
-            <img src="${person.foto}" alt="foto classse">
+            <div class="container" id="${person.Classe}">
+            <div class="foto-personagem">
+                <img src="${person.foto}" alt="foto classse">
+            </div>
             <div class="post-content">
-                <h1 class="nome-classe">${person.classe}</h1>
+                <h1 class="nome-classe">${person.Classe}</h1>
     
                 <p class="descricao">${person.descricao}</p>
             </div>

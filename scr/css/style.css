@@ -5,6 +5,7 @@
 
 .cabecalho {
     padding: 15px;
+    height: 40px;
     background-image: linear-gradient(to bottom, #D92D3E, #E7D8BE);
 }
 
@@ -28,14 +29,10 @@
 
 .main {
     background-color: #E7D8BE;
-    height: 100vh;
-}
-
-.img-main {
+    min-height: calc(100vh - 40px);
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 95%;
 }
 
 .img-logo {
@@ -43,20 +40,32 @@
     width: 950px;
 }
 
+.personagens{
+    background-color: #E7D8BE;
+}
+
 .container {
     display: flex;
     background-color: #E7D8BE;
+    min-height: calc(100vh - 40px);
+}
+
+.container img {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 
 .post-content {
+    width: 100%;
+    display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .nome-classe {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     margin-bottom: 100px;
 }
 
