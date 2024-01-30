@@ -2,52 +2,52 @@
     "personagens":[
         {
             "Classe": "Alquimista",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/PF2_alquimista-01-removebg-preview.png", 
             "descricao": "lorem"
         },
         {
             "Classe": "Bárbaro",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/B%C3%A1rbaro.png", 
             "descricao": "lorem"
         },
         {
             "Classe": "Bardo",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/bardo.png", 
             "descricao": "lorem"
         },
         {
             "Classe": "Campeão",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Campe%C3%A3o.png", 
             "descricao": "lorem"
         },
         {
             "Classe": "Clérigo",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Cl%C3%A9rigo.png", 
             "descricao": "lorem"
         },
         {
             "Classe": "Druida",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Druida.png", 
             "descricao": "lorem"
         },
         {
             "Classe": "Feiticeiro",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Feiticeiro.png", 
             "descricao": "lorem"
         },
         {
             "Classe": "Guerreiro",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Guerreiro.png", 
             "descricao": "lorem"
         },
         {
             "Classe": "Ladino",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Ladino.png", 
             "descricao": "lorem"
         },
         {
             "Classe": "Mago",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Mago.png", 
             "descricao": "lorem"
         },
         {
@@ -57,7 +57,7 @@
         },
         {
             "Classe": "Patrulheiro",
-            "foto": "a", 
+            "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Patrulheiro.png", 
             "descricao": "lorem"
         }
     ]
