@@ -1,0 +1,64 @@
+{
+    "personagens":[
+        {
+            "Classe": "Alquimista",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Bárbaro",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Bardo",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Campeão",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Clérigo",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Druida",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Feiticeiro",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Guerreiro",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Ladino",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Mago",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Monge",
+            "foto": "a", 
+            "descricao": "lorem"
+        },
+        {
+            "Classe": "Patrulheiro",
+            "foto": "a", 
+            "descricao": "lorem"
+        }
+    ]
+}
