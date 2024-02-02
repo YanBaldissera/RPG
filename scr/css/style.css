@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0;
+    font-family: 'MedievalSharp', cursive;
 }
 
 .cabecalho {
@@ -29,7 +30,7 @@
 
 .main {
     background-color: #E7D8BE;
-    min-height: calc(100vh - 40px);
+    min-height: calc(100vh - 70px);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,25 +48,43 @@
 .container {
     display: flex;
     background-color: #E7D8BE;
-    min-height: calc(100vh - 40px);
+    height: 100vh;
 }
 
-.container img {
+.container .foto-personagem {
     height: 100%;
-    width: 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
+.container .foto-personagem img {
+    height: 400px;
+    width: 300px;
+}
 
 .post-content {
     width: 100%;
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.nome-classe {
+.post-content .titulo {
     margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.post-content .titulo2 {
+    background-color: #D92D3E;
+    width: 50%;
+    height: auto;
+    border-top: 2px solid #a9a9a9;
+    border-bottom: 2px solid #a9a9a9;
+    padding: 90px 0;
+    display: flex;
 }
 

@@ -8,9 +8,8 @@ async function fetchPersonagens(){
 
 (async () =>{
     const profilePersonagens = await fetchPersonagens();
-    console.log(profilePersonagens);
-    debugger;
     updatePersonagens(profilePersonagens);
+    //selectPersonagem(profilePersonagens);
 })()
 
 function updatePersonagens(profilePersonagens){
@@ -23,11 +22,28 @@ function updatePersonagens(profilePersonagens){
                 <img src="${person.foto}" alt="foto classse">
             </div>
             <div class="post-content">
+                <div class="titulo">
+                <img src="${person.foto-classe}" alt="foto classse">
                 <h1 class="nome-classe">${person.Classe}</h1>
-    
+                </div>
+
+                <div class="titulo2">
                 <p class="descricao">${person.descricao}</p>
+                </div>
+                
             </div>
         </div>`
         }
     )
 }
+
+/*
+function selectPersonagem(profilePersonagens){
+    const selectPersonagem = document.getElementById("classes");
+    selectPersonagem.innerHTML = profilePersonagens.personagens.map(
+        option => {
+            return `
+            <option value="classe" id="${option.Classe}">${option.Classe}</option>`
+        }
+    )
+}*/
