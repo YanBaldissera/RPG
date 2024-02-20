@@ -1,73 +1,73 @@
 {
     "personagens":[
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20alquimista.jpeg",
             "Classe": "Alquimista",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/PF2_alquimista-01-removebg-preview.png", 
             "descricao": "O alquimista usa sua habilidade de crafting para criar itens alquímicos – como bombas, elixires e venenos – que eles usam para derrotar inimigos e ajudar aliados. Inteligente e engenhoso, um alquimista geralmente tem a ferramenta certa para o trabalho e conhecimento esotérico para ajudar seus amigos a sair de apuros."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20barbaro.jpeg",
             "Classe": "Bárbaro",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/B%C3%A1rbaro.png", 
             "descricao": "O bárbaro é uma temível personificação da raiva, concentrando o poder mortal de sua raiva contra qualquer um que esteja em seu caminho. Um bárbaro entra rapidamente na batalha e, uma vez liberada sua fúria, é imensamente forte, muitas vezes imprevisível e quase imparável."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20bardo.jpeg",
             "Classe": "Bardo",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/bardo.png", 
             "descricao": "Artista e estudioso, o bardo usa a performance e o aprendizado esotérico para fortalecer seus companheiros e frustrar seus inimigos. Às vezes sorrateiro e muitas vezes charmoso, o bardo se aventura com um toque especial e talento apoiado por um impressionante repertório de magia oculta."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20campe%C3%A3o.jpeg",
             "Classe": "Campeão",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Campe%C3%A3o%20(2).png", 
             "descricao": "Um defensor do bem que veste uma armadura e empunha uma arma justa, o campeão protege os inocentes e derrota o mal. Firmes em suas crenças e devotados tanto a uma divindade quanto a um aspecto do bem, eles seguem um código rígido enquanto lutam para tornar o mundo um lugar melhor."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20cl%C3%A9rigo.jpeg",
             "Classe": "Clérigo",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Cl%C3%A9rigo.png", 
             "descricao": "O clérigo se dedica à adoração de uma única divindade e extrai magia divina dessa devoção. Os clérigos podem ser muito diferentes dependendo de quem eles adoram e se são clérigos enclausurados que perseguem um dos domínios de sua divindade ou sacerdotes de guerra que servem como o braço da espada de seu deus."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20druida.jpeg",
             "Classe": "Druida",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Druida.png", 
             "descricao": "O druida caminha pelos lugares selvagens e primordiais do mundo sem medo, aproveitando a magia primordial da natureza e controlando-a com um propósito calmo. Devoto da natureza selvagem, o druida encontra nutrição em seu poder, aliados entre suas criaturas e força em sua fúria."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20feiticeiro.jpeg",
             "Classe": "Feiticeiro",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Feiticeiro.png", 
             "descricao": "A magia intensa que o feiticeiro comanda não vem do estudo nem da adoração – vem do sangue deles. Suas habilidades mágicas dependem de eles terem sangue de dragões, anjos, fadas, criaturas aberrantes ou algum outro ser fluindo em suas veias e alimentando seus feitiços."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20guerreiro.jpeg",
             "Classe": "Guerreiro",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Guerreiro.png", 
             "descricao": "Com ousadia calculada e determinação destemida, o guerreiro enfrenta seus inimigos enquanto defende os aliados do perigo. Mestre do campo de batalha, o guerreiro é rápido em explorar oportunidades e atacar qualquer um que tropeçar ao alcance de sua lâmina ou arco."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20ladino.jpeg",
             "Classe": "Ladino",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Ladino.png", 
             "descricao": "Astuto e rápido, o ladino traz habilidade e conhecimento que poucos de seus camaradas conseguem igualar. Na batalha, eles são excelentes em ataques furtivos e emboscadas. Seus esquemas ilegais lhes dão as ferramentas necessárias para realizar o trabalho, e sua ampla gama de opções de habilidades permite que eles se especializem como acharem adequado."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20mago.jpeg",
             "Classe": "Mago",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Mago.png", 
             "descricao": "O mago é o mestre arcano do lançamento de feitiços, extraindo um poder incrível da realidade através de complicadas fórmulas de feitiços. Eles avançam com confiança, sem necessidade de armaduras ou armas, exercendo a sua vontade sobre o mundo e trazendo desgraça aos seus inimigos."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20monge.jpeg",
             "Classe": "Monge",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Monge%20(2).png", 
             "descricao": "O monge busca a perfeição em todas as coisas, e isso inclui transformar seu corpo na arma perfeita. Eles podem caminhar com calma e contemplar as sutilezas da existência em um minuto e então se transformar em um borrão de golpes mortais no minuto seguinte."
         },
         {
-            "icone":"a",
+            "icone":"https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20patrulheiro.jpeg",
             "Classe": "Patrulheiro",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Patrulheiro.png", 
             "descricao": "Engenhoso e astuto, o patrulheiro é um caçador, rastreador e guerreiro que preserva o mundo natural e protege a civilização de sua devastação. Quer usem arco, besta, um par de armas ou armadilhas, o patrulheiro é um inimigo temível e um grande aliado na selva."

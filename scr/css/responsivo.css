@@ -1,0 +1,40 @@
+@media (max-width: 1024px) {
+    .post-content {
+        width: 100%;
+    }
+
+    .post-content .titulo {
+        margin-bottom: 200px;
+    }
+} 
+
+@media (max-width: 688px){
+    body{
+        overflow-x: hidden;
+    }
+    .img-logo {
+        height: 125px;
+        width: 500px;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .post-content .titulo {
+        margin-bottom: 50px;
+    }
+
+    .post-content .titulo2 .descricao {
+        font-size: 20px;
+        max-width: 650px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin: auto;
+    }
+
+}

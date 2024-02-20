@@ -18,21 +18,20 @@ function updatePersonagens(profilePersonagens){
         person => {
             return `
             <div class="container" id="${person.Classe}">
-            <div class="foto-personagem">
-                <img src="${person.foto}" alt="foto classse">
-            </div>
-            <div class="post-content">
-                <div class="titulo">
-                <img src="${person.foto-classe}" alt="foto classse">
-                <h1 class="nome-classe">${person.Classe}</h1>
+                <div class="foto-personagem">
+                    <img src="${person.foto}" alt="foto classse">
                 </div>
+                <div class="post-content">
+                    <div class="titulo">
+                        <h1 class="nome-classe"> <img src"${person.icone}" alt="Icone da classe">${person.Classe}</h1>
+                    </div>
 
-                <div class="titulo2">
-                <p class="descricao">${person.descricao}</p>
-                </div>
+                    <div class="titulo2">
+                        <p class="descricao">${person.descricao}</p>
+                    </div>
                 
-            </div>
-        </div>`
+                </div>
+            </div>`
         }
     )
 }
