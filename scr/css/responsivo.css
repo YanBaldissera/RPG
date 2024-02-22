@@ -6,12 +6,12 @@
     .post-content .titulo {
         margin-bottom: 200px;
     }
-} 
-
-@media (max-width: 688px){
     body{
         overflow-x: hidden;
     }
+} 
+
+@media (max-width: 980px){
     .img-logo {
         height: 125px;
         width: 500px;
@@ -38,6 +38,27 @@
     }
 }
 
+@media (max-width: 688px){
+    .img-logo {
+        height: 125px;
+        width: 500px;
+    }
+
+    .container .foto-personagem img {
+        height: 300px;
+        width: 200px;
+    }
+
+    .post-content .titulo {
+        margin-bottom: 50px;
+    }
+
+    .post-content .titulo2 .descricao {
+        font-size: 18px;
+        max-width: 500px;
+    }
+}
+
 @media (max-width: 415px){
     .img-logo {
         height: 100px;
@@ -47,11 +68,6 @@
     .post-content .titulo2 .descricao {
         font-size: 15px;
         max-width: 390px;
-    }
-
-    .container .foto-personagem img {
-        height: 300px;
-        width: 200px;
     }
 }
 
