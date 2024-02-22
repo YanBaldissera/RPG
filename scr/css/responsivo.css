@@ -36,5 +36,55 @@
         text-align: center;
         margin: auto;
     }
+}
 
+@media (max-width: 415px){
+    .img-logo {
+        height: 100px;
+        width: 380px;
+    }
+
+    .post-content .titulo2 .descricao {
+        font-size: 15px;
+        max-width: 390px;
+    }
+
+    .container .foto-personagem img {
+        height: 300px;
+        width: 200px;
+    }
+}
+
+@media (max-width: 376px){
+    .img-logo {
+        height: 90px;
+        width: 350px;
+    }
+
+    .post-content .titulo2 .descricao {
+        font-size: 15px;
+        max-width: 350px;
+    }
+
+    .container .foto-personagem img {
+        height: 300px;
+        width: 200px;
+    }
+}
+
+@media (max-width: 365px){
+    .img-logo {
+        height: 90px;
+        width: 340px;
+    }
+
+    .post-content .titulo2 .descricao {
+        font-size: 15px;
+        max-width: 340px;
+    }
+
+    .container .foto-personagem img {
+        height: 250px;
+        width: 190px;
+    }
 }
