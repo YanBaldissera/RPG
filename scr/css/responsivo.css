@@ -12,6 +12,22 @@
 } 
 
 @media (max-width: 980px){
+    .post-content .titulo {
+        margin-top: 0px;
+        margin-bottom: 100px;
+    }
+
+    .container {
+        margin-top: 0px;
+    }
+    
+    .post-content .titulo .foto-icone{
+        height: 30px;
+        width: 30px;
+        margin-right: 20px;
+        margin-bottom: 15px;
+    }
+    
     .img-logo {
         height: 125px;
         width: 500px;
@@ -60,6 +76,17 @@
 }
 
 @media (max-width: 415px){
+    .post-content .titulo h1 {
+        font-size: 30px;
+    }
+    
+    .post-content .titulo .foto-icone{
+        height: 30px;
+        width: 30px;
+        margin-right: 20px;
+        margin-bottom: 15px;
+    }
+
     .img-logo {
         height: 100px;
         width: 380px;

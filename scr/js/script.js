@@ -23,7 +23,7 @@ function updatePersonagens(profilePersonagens){
                 </div>
                 <div class="post-content">
                     <div class="titulo">
-                    <img src="${person.icone}" alt="Icone da classe"><h1 class="nome-classe">${person.Classe}</h1>
+                    <img class="foto-icone" src="${person.icone}" alt="Icone da classe"><h1 class="nome-classe">${person.Classe}</h1>
                     </div>
 
                     <div class="titulo2">

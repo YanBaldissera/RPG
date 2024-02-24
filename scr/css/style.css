@@ -88,7 +88,6 @@ a {
 }
 
 .post-content {
-    margin-top: 100px;
     width: 100%;
     height: 100%;
     display: flex;
@@ -97,9 +96,21 @@ a {
 }
 
 .post-content .titulo {
+    margin-top: 100px;
     margin-bottom: 100px;
     display: flex;
     justify-content: center;
+}
+
+.post-content .titulo h1 {
+    font-size: 50px;
+}
+
+.post-content .titulo .foto-icone{
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+    margin-bottom: 15px;
 }
 
 
