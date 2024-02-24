@@ -1,7 +1,7 @@
 {
     "personagens":[
         {
-            "icone": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/icone%20alquimista.jpeg",
+            "icone": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/Alchemist_Icon.png",
             "Classe": "Alquimista",
             "foto": "https://raw.githubusercontent.com/YanBaldissera/RPG/main/scr/img/PF2_alquimista-01-removebg-preview.png", 
             "descricao": "O alquimista usa sua habilidade de crafting para criar itens alquímicos – como bombas, elixires e venenos – que eles usam para derrotar inimigos e ajudar aliados. Inteligente e engenhoso, um alquimista geralmente tem a ferramenta certa para o trabalho e conhecimento esotérico para ajudar seus amigos a sair de apuros."
