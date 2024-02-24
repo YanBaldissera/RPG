@@ -36,13 +36,16 @@ function updatePersonagens(profilePersonagens){
     )
 }
 
-/*
-function selectPersonagem(profilePersonagens){
-    const selectPersonagem = document.getElementById("classes");
-    selectPersonagem.innerHTML = profilePersonagens.personagens.map(
-        option => {
-            return `
-            <option value="classe" id="${option.Classe}">${option.Classe}</option>`
+document.querySelectorAll(".scroll-link").forEach(link => {
+    link.addEventListener("click", evento => {
+        evento.preventDefault();
+        const href = link.getAttribute("href");
+        const alvo = document.querySelector(href);
+
+        if (alvo) {
+            alvo.scrollIntoView({
+                behavior: "smooth"
+            });
         }
-    )
-}*/
+    });
+});
