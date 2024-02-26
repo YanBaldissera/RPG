@@ -160,20 +160,38 @@
     }
 
     .post-content .titulo2 {
-        max-width: 320px;
-    }
-
-    .post-content .titulo2 {
-        max-width: 310px;
+        width: 320px;
     }
 
     .post-content .titulo2 .descricao {
         font-size: 15px;
-        max-width: 320px;
+        max-width: 310px;
     }
 
     .container .foto-personagem img {
         height: 210px;
         width: 160px;
+    }
+}
+
+
+@media (max-width: 290px){
+    .img-logo {
+        height: 60px;
+        width: 270px;
+    }
+
+    .post-content .titulo2 {
+        width: 270px;
+    }
+
+    .post-content .titulo2 .descricao {
+        font-size: 15px;
+        max-width: 260px;
+    }
+
+    .container .foto-personagem img {
+        height: 180px;
+        width: 140px;
     }
 }
