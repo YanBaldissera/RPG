@@ -44,6 +44,10 @@
         margin-bottom: 50px;
     }
 
+    .post-content .titulo2 {
+        width: 660px;
+    }
+
     .post-content .titulo2 .descricao {
         font-size: 20px;
         max-width: 650px;
@@ -69,6 +73,10 @@
         margin-bottom: 50px;
     }
 
+    .post-content .titulo2 {
+        width: 510px;
+    }
+
     .post-content .titulo2 .descricao {
         font-size: 18px;
         max-width: 500px;
@@ -92,6 +100,10 @@
         width: 380px;
     }
 
+    .post-content .titulo2 {
+        width: 400px;
+    }
+
     .post-content .titulo2 .descricao {
         font-size: 15px;
         max-width: 390px;
@@ -102,6 +114,10 @@
     .img-logo {
         height: 90px;
         width: 350px;
+    }
+
+    .post-content .titulo2 {
+        max-width: 360px;
     }
 
     .post-content .titulo2 .descricao {
@@ -121,6 +137,10 @@
         width: 340px;
     }
 
+    .post-content .titulo2 {
+        max-width: 350px;
+    }
+
     .post-content .titulo2 .descricao {
         font-size: 15px;
         max-width: 340px;
@@ -129,5 +149,31 @@
     .container .foto-personagem img {
         height: 250px;
         width: 190px;
+    }
+}
+
+
+@media (max-width: 330px){
+    .img-logo {
+        height: 75px;
+        width: 310px;
+    }
+
+    .post-content .titulo2 {
+        max-width: 320px;
+    }
+
+    .post-content .titulo2 {
+        max-width: 310px;
+    }
+
+    .post-content .titulo2 .descricao {
+        font-size: 15px;
+        max-width: 320px;
+    }
+
+    .container .foto-personagem img {
+        height: 210px;
+        width: 160px;
     }
 }

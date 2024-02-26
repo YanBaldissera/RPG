@@ -4,6 +4,10 @@
     font-family: 'MedievalSharp', cursive;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 .cabecalho {
     padding: 15px;
     height: 40px;
