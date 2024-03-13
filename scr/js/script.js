@@ -36,6 +36,30 @@ function updatePersonagens(profilePersonagens){
     )
 }
 
+function updatePersonagens(profilePersonagens){
+    const personagem = document.getElementById('personagens-en');
+    personagem.innerHTML = profilePersonagens.personagens.map(
+        personEn => {
+            return `
+            <div class="container" id="${personEn.Class}">
+                <div class="foto-personagem">
+                    <img src="${personEn.photo}" alt="foto classse">
+                </div>
+                <div class="post-content">
+                    <div class="titulo">
+                    <img class="foto-icone" src="${personEn.icon}" alt="Icone da classe"><h1 class="nome-classe">${personEn.Classe}</h1>
+                    </div>
+
+                    <div class="titulo2">
+                        <p class="descricao">${personEn.description}</p>
+                    </div>
+                
+                </div>
+            </div>`
+        }
+    )
+}
+
 document.querySelectorAll(".scroll-link").forEach(link => {
     link.addEventListener("click", evento => {
         evento.preventDefault();
