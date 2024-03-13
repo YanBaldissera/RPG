@@ -36,9 +36,9 @@ function updatePersonagens(profilePersonagens){
     )
 }
 
-function updatePersonagens(profilePersonagens){
-    const personagem = document.getElementById('personagens-en');
-    personagem.innerHTML = profilePersonagens.personagens.map(
+function updatePersonagensEn(profilePersonagens){
+    const personagemEn = document.getElementById('personagens-en');
+    personagemEn.innerHTML = profilePersonagens.personagens-en.map(
         personEn => {
             return `
             <div class="container" id="${personEn.Class}">
@@ -47,7 +47,7 @@ function updatePersonagens(profilePersonagens){
                 </div>
                 <div class="post-content">
                     <div class="titulo">
-                    <img class="foto-icone" src="${personEn.icon}" alt="Icone da classe"><h1 class="nome-classe">${personEn.Classe}</h1>
+                    <img class="foto-icone" src="${personEn.icon}" alt="Icone da classe"><h1 class="nome-classe">${personEn.Class}</h1>
                     </div>
 
                     <div class="titulo2">
