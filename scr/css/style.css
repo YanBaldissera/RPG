@@ -14,7 +14,7 @@ body {
     background-image: linear-gradient(to bottom, #D92D3E, #E7D8BE);
 }
 
-nav {
+#nav {
     position: fixed;
 }
 
@@ -54,6 +54,22 @@ a {
     text-decoration: none;
     font-size: 17px;
     color: #ffff;
+}
+
+#idioma {
+    background-image: url("../img/globo2.png");
+    background-color: rgba(0, 0, 0);
+    float: right;
+    cursor: pointer;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-right: 80px;
+}
+
+#idioma li{
+    align-items: center;
+    text-align: center;
 }
 
 .main {
