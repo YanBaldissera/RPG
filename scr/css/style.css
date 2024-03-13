@@ -57,14 +57,10 @@ a {
 }
 
 #idioma {
-    background-image: url("../img/globo2.png");
-    background-color: rgba(0, 0, 0);
     float: right;
     cursor: pointer;
-    border-radius: 50%;
-    width: 30px;
-    height: 30px;
-    margin-right: 80px;
+    border-radius: 10px;
+    margin-right: 30px;
 }
 
 #idioma li{
