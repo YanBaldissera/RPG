@@ -16,6 +16,7 @@ body {
 
 #nav {
     position: fixed;
+    z-index: 9999;
 }
 
 ul {
@@ -102,6 +103,7 @@ a {
     height: 400px;
     width: 300px;
     filter: drop-shadow(20px 15px 6px #000);
+    z-index: 0;
 }
 
 .post-content {
