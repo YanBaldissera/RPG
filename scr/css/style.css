@@ -101,6 +101,7 @@ a {
 .container .foto-personagem img {
     height: 400px;
     width: 300px;
+    filter: drop-shadow(20px 15px 6px #000);
 }
 
 .post-content {
